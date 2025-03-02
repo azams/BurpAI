@@ -5,6 +5,8 @@ Burp Extender - Security Analysis &amp; AI-based Threat Detection
 
 ![ChatGPT Security Analyzer Screenshot](https://github.com/azams/BurpAI/blob/main/2025-03-02_18-00.png?raw=true)
 
+![Expense](https://github.com/azams/BurpAI/blob/main/expense.png?raw=true)
+
 ## 🔥 Features  
 ✅ AI-driven analysis of HTTP requests & responses  
 ✅ Identifies potential security risks 
