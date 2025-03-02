@@ -3,7 +3,7 @@ Burp Extender - Security Analysis &amp; AI-based Threat Detection
 
 🚀 **ChatGPT Security Analyzer** is a Burp Suite extension that leverages OpenAI's ChatGPT API to analyze HTTP requests and responses for potential security vulnerabilities. This tool provides AI-powered insights, helping security professionals identify risks efficiently.  
 
-![ChatGPT Security Analyzer Screenshot](https://github.com/azams/BurpAI/blob/main/2025-03-02_18-00.png?raw=true) *(Replace with an actual screenshot of your tool)*  
+![ChatGPT Security Analyzer Screenshot](https://github.com/azams/BurpAI/blob/main/2025-03-02_18-00.png?raw=true)
 
 ## 🔥 Features  
 ✅ AI-driven analysis of HTTP requests & responses  
