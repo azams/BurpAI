@@ -17,7 +17,7 @@ Burp Extender - Security Analysis &amp; AI-based Threat Detection
 ## 📌 Installation  
 
 ### **1. Manual Installation**
-1. Download the `analyze.py` from [Releases](https://github.com/azams/BurpAI/releases).
+1. Download the `analyze.py`.
 2. Open **Burp Suite** and navigate to **Extender → Extensions**.
 3. Click **"Add"**, select `Python`, and load the downloaded `.py` file.
 
