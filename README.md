@@ -24,7 +24,8 @@ Burp Extender - Security Analysis &amp; AI-based Threat Detection
 3. Click **"Add"**, select `Python`, and load the downloaded `.py` file.
 
 ### **2. BApp Store (Coming Soon)**
-Once approved, you will be able to install it directly from Burp Suite’s **BApp Store**.
+~~Once approved, you will be able to install it directly from Burp Suite’s **BApp Store**.~~
+Not approved. They asked me to recode all using MontoyaAI.
 
 ---
 
